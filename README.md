@@ -1,1 +1,1 @@
-# Mini-Coding-Challenges---100DaysOfCode
+# Mini-Coding-Challenges___100DaysOfCode
