@@ -1,1 +1,1 @@
-# Mini-Coding-Challenges---100DaysOfCode
+# Day_1 - Commune Waitlist Page - Codewell
